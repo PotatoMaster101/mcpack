@@ -1,0 +1,6 @@
+{
+    "pack": {
+        "pack_format": 5,
+        "description": "Destroys whole tree after removing one log"
+    }
+}
